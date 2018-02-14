@@ -1,0 +1,31 @@
+body {
+	font-size: 2em;
+	background-color: #f18973;
+}
+
+img {
+	display: block;
+	margin-left: 10em;
+}
+
+.center {
+    display: block;
+    padding-top: 2cm;
+    padding-bottom: 1cm;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1 {
+	text-align: center;
+	font-size: 5em;
+	font-weight: 900;
+}
+.centerText {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
